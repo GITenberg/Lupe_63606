@@ -1,5 +1,8 @@
 _repo: Lupe_63606
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 63606-h/images/cover.jpg
 creator:
   author:
     agent_name: Affonso Celso, Affonso Celso de Assis Figueiredo, conde de
@@ -15,6 +18,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/52518
     wikipedia: https://pt.wikipedia.org/wiki/Afonso_Celso_de_Assis_Figueiredo_J%C3%BAnior
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/63606#Lupe
 gutenberg_issued: '2020-11-02'
 gutenberg_type: Text
 identifiers:
