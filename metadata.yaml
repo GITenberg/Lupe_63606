@@ -1,0 +1,31 @@
+_repo: Lupe_63606
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Affonso Celso, Affonso Celso de Assis Figueiredo, conde de
+    aliases:
+    - Assis Figueiredo, Affonso Celso de, conde de Affonso Celso
+    - Figueiredo, Affonso Celso de Assis, conde de Affonso Celso
+    - De Assis Figueiredo, Affonso Celso, conde de Affonso Celso
+    - Celso, Afonso, conde de Afonso Celso
+    - Figueiredo, Afonso Celso de Assis, conde de Afonso Celso
+    birthdate: 1860
+    deathdate: 1938
+    gutenberg_agent_id: '52518'
+    url: http://www.gutenberg.org/2009/agents/52518
+    wikipedia: https://pt.wikipedia.org/wiki/Afonso_Celso_de_Assis_Figueiredo_J%C3%BAnior
+description: ''
+gutenberg_issued: '2020-11-02'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '63606'
+language: pt
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PQ'
+- !lcsh 'Brazilian fiction'
+- GITenberg
+title: Lupe
+url: http://www.gutenberg.org/ebooks/63606
